@@ -171,4 +171,4 @@ class Checkers:
 
         else:
             return None
-#un peu de test
+#un peu de test pour faire un peu plus de fun
